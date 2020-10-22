@@ -128,7 +128,7 @@ github.io
           </li>
 
 		  <li class="nav-item has-treeview menu-close">
-            <a href="https://suriya005.github.io/home/" class="nav-link">
+            <a href="https://suriya005.github.io/home/" class="nav-link active">
               <i class="nav-icon fas fa-ambulance"></i>
               <p>
                 สุริยา พุฒดวง
@@ -137,7 +137,7 @@ github.io
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="me.htm" class="nav-link">
+                <a href="me.htm" class="nav-link active">
                   <i class="fas fa-clinic-medical nav-icon"></i>  
                   <p>Me</p>
                 </a>
@@ -221,8 +221,14 @@ github.io
         </div>
       </div>	
 </fieldset>
-
+<style>
+  .rabit{font-size:60px;margin: 10px;}
+</style>
+<p class="rabit">(\_/)</p>
+<p class="rabit">( •_•)</p>
+<p class="rabit">/>☕️</p>
 <fieldset class="col-12 small-box" style="font-family:kanit;"><legend><b>การทำ CSR</b></legend>
+
 <style>
 .bigcap{float:left;font-size:60px;line-height:0.5;margin-top:5px;margin-right:5px;margin-left:5px;color:#000088}
 </style>

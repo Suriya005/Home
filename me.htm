@@ -128,7 +128,7 @@ github.io
           </li>
 
 		  <li class="nav-item has-treeview menu-close">
-            <a href="https://suriya005.github.io/home/" class="nav-link">
+            <a href="https://suriya005.github.io/home/" class="nav-link active">
               <i class="nav-icon fas fa-ambulance"></i>
               <p>
                 สุริยา พุฒดวง
@@ -137,9 +137,9 @@ github.io
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="https://suriya005.github.io/home/" class="nav-link">
+                <a href="https://suriya005.github.io/home/" class="nav-link active">
                   <i class="fas fa-clinic-medical nav-icon"></i>  
-                  <p>Home</p>
+                  <p>Me</p>
                 </a>
               </li>
               <li class="nav-item">
